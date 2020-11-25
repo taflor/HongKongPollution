@@ -1,7 +1,7 @@
 HongKongPollution
 ==============================
 
-Analysis oanof Hong Kong poluttion from 1990 to 2020. Prediction of most polluted and least polluted times of year.
+Analysis of Hong Kong polution from 1990 to 2020. Prediction of most polluted and least polluted times of year.
 
 Project Organization
 ------------
